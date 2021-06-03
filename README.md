@@ -1,5 +1,5 @@
 # spelling-bee-solver
-Over my winter break, I became addicted to the daily New York Times Spelling Bee game. One afternoon, while struggling to reach Genius level (and attempting to do so by randonly entering letter combinations that I was sure were not words in the English language) I started to think about how the solutions to this game could be automatically generated using the rules of the game, that day's letters, and a list of all words in the English language.
+Over my winter break, I became addicted to the daily New York Times Spelling Bee game. One afternoon, while struggling to reach Genius level (and attempting to do so by randomly entering letter combinations that I was sure were not actual English words) I started to think about how the solutions to this game could be automatically generated using the rules of the game, that day's letters, and a list of all words in the English language.
 
 Having recently learned web scraping in my Python class, I set out to see if I could create a solver for this game.
 
